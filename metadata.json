@@ -1,0 +1,6 @@
+{
+  "name": "TruthShield AI",
+  "description": "GenAI-Based Misinformation Detection & Awareness Platform. Detect. Understand. Learn. Don't Get Manipulated.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
